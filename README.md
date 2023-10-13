@@ -13,4 +13,6 @@ Vim para o Byte com o intuito de aprender, somar com meu conhecimento, e, princi
 
 Eu sou o Carlos, tenho 19 anos e estou no 2º período de Ciência da Computação.
 Gosto jogar videogame e jogos de tabuleiro, e aprender e descobrir coisas novas.
-Ainda não conheço as linguagens, mas, espero conseguir aprender o suficiente para ajudar a cumprir nossa tarefa.    
+Ainda não conheço as linguagens, mas, espero conseguir aprender o suficiente para ajudar a cumprir nossa tarefa.
+
+Olá pessoal, meu nome é Cainã, tenho 20 anos e estou no 4º período do curso de Sistemas de Informação. Entrei na byte com o objetivo de aprender, me desenvolver através de projetos como é o intuito do ramo. Já tive contatos com algumas linguagens de programação e Web, e espero aperfeiçoar e aprender ainda mais.    
