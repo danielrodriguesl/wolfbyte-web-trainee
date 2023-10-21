@@ -16,3 +16,7 @@ Gosto jogar videogame e jogos de tabuleiro, e aprender e descobrir coisas novas.
 Ainda não conheço as linguagens, mas, espero conseguir aprender o suficiente para ajudar a cumprir nossa tarefa.
 
 Olá pessoal, meu nome é Cainã, tenho 20 anos e estou no 4º período do curso de Sistemas de Informação. Entrei na byte com o objetivo de aprender, me desenvolver através de projetos como é o intuito do ramo. Já tive contatos com algumas linguagens de programação e Web, e espero aperfeiçoar e aprender ainda mais.    
+
+Fala rpzd, meu nome é Vinícius, tenho 19 anos e estou no 3º período de Ciencia da Computação.
+Gosto muito de jogar futebol, alem de assistir aos jogos, pricipalmente do botafogo, jogar videogame. Desenvolvi o interesse na programaçao durante a pandemia quando eu vi um comercial da imersão dev da alura.
+Entrei pra Wolfbyte com o objetivo de aprender e acima de tudo me desenvolver mais com o auxilio da rapaziada. 
